@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Aakriti Rai
  */
 
 public class Class2 {
